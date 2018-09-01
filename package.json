@@ -1,0 +1,18 @@
+{
+  "name": "nodeweek1",
+  "version": "0.0.1",
+  "description": "week 1 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "week1Assignment"
+  ],
+  "author": "Sheri Wong",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "num2fraction": "^1.2.2"
+  }
+}
